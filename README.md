@@ -1,3 +1,6 @@
+[![Build Status](https://semaphoreci.com/api/v1/projects/5ccb82e4-1605-46b7-8be3-595891bf4af0/483534/badge.svg)](https://semaphoreci.com/lp/intercom_init)      
+
+
 Intercom Init
 ====================
 
